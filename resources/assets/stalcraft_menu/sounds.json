@@ -1,0 +1,11 @@
+{
+"main_menu": {
+   "category": "master",
+   "sounds": ["stalcraft_menu:mainmenu_ambient"]
+},
+
+"main_menu_hover": {
+   "category": "master",
+   "sounds": ["stalcraft_menu:hover"]
+}
+}
